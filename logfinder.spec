@@ -1,6 +1,6 @@
 %define	name	logfinder
 %define	version	0.1
-%define	release	1mdk 
+%define	release	 %mkrel 1 
 
 Name:		%{name} 
 Summary:	Helps Eliminate Unwanted Logging of Personal Data
